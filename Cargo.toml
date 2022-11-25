@@ -1,6 +1,6 @@
 [package]
 name = "test_ci"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["liulu17 1085554719@qq.com"]
 description = "test for crate publish"
