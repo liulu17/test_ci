@@ -6,6 +6,8 @@ authors = ["liulu17 1085554719@qq.com"]
 description = "test for crate publish"
 publish = true
 license = "MIT"
+readme="README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
+documentation="https://docs.rs/test_ci/0.1.1/test_ci/"
+repository = "https://https://github.com/liulu17/test_ci/"
 [dependencies]
